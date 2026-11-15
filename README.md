@@ -188,7 +188,7 @@ a organização em pacotes, rascunhar os testes e revisar textos deste README.
 `mvn test` e o roteiro de demonstração, ajustou nomes, mensagens e limiares para o nosso recorte e conferiu
 os requisitos da GS um a um. Todos os integrantes conseguem explicar qualquer trecho do código.
 
-> ⚠️ *Equipe: ajustem esta seção para refletir exatamente como vocês usaram a IA e revisaram o código.*
+
 
 ---
 
@@ -196,6 +196,6 @@ os requisitos da GS um a um. Todos os integrantes conseguem explicar qualquer tr
 
 | Integrante (RM) | Responsabilidade |
 |---|---|
-| _Nome 1 — RM00000_ | Domínio (`ComponenteTerritorial`, `Sensor` e implementações, `DadosTerritorio`) e exceções |
-| _Nome 2 — RM00000_ | Persistência (`ConexaoBanco`, `MedicaoDAO`, `AlertaDAO`, CSV) |
-| _Nome 3 — RM00000_ | Previsões, alertas, padrões (`FabricaPrevisao`, `ConfiguracaoSistema`) e testes |
+| _Nome Leonardo Augusto — RM565564_ | Domínio (`ComponenteTerritorial`, `Sensor` e implementações, `DadosTerritorio`) e exceções |
+| _Nome Pedro Gabriel — RM562242_ | Persistência (`ConexaoBanco`, `MedicaoDAO`, `AlertaDAO`, CSV) |
+| _Nome Alexandre Campão — RM563346_ | Previsões, alertas, padrões (`FabricaPrevisao`, `ConfiguracaoSistema`) e testes |
