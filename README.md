@@ -196,6 +196,6 @@ os requisitos da GS um a um. Todos os integrantes conseguem explicar qualquer tr
 
 | Integrante (RM) | Responsabilidade |
 |---|---|
-| _Nome Leonardo Augusto — RM565564_ | Domínio (`ComponenteTerritorial`, `Sensor` e implementações, `DadosTerritorio`) e exceções |
-| _Nome Pedro Gabriel — RM562242_ | Persistência (`ConexaoBanco`, `MedicaoDAO`, `AlertaDAO`, CSV) |
-| _Nome Alexandre Campão — RM563346_ | Previsões, alertas, padrões (`FabricaPrevisao`, `ConfiguracaoSistema`) e testes |
+| _ Leonardo Augusto — RM565564_ | Domínio (`ComponenteTerritorial`, `Sensor` e implementações, `DadosTerritorio`) e exceções |
+| _ Pedro Gabriel — RM562242_ | Persistência (`ConexaoBanco`, `MedicaoDAO`, `AlertaDAO`, CSV) |
+| _ Alexandre Campão — RM563346_ | Previsões, alertas, padrões (`FabricaPrevisao`, `ConfiguracaoSistema`) e testes |
