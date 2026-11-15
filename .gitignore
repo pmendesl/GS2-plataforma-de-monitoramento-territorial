@@ -1,0 +1,7 @@
+target/
+dados/
+exportacoes/
+*.iml
+.idea/
+.vscode/
+.DS_Store
